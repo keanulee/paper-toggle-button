@@ -1,0 +1,7 @@
+{
+  "name": "paper-toggle-button#gh-pages",
+  "private": true,
+  "dependencies": {
+    "paper-toggle-button": "keanulee/paper-toggle-button#master"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "paper-toggle-button",
+  "private": true,
+  "dependencies": {
+    "font-roboto": "Polymer/font-roboto#master",
+    "paper-radio-button": "Polymer/paper-radio-button#master"
+  },
+  "homepage": "https://github.com/keanulee/paper-toggle-button",
+  "_release": "427f9d5cc9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "427f9d5cc91b2f31187c0dbcc7d9498d5676a493"
+  },
+  "_source": "git://github.com/keanulee/paper-toggle-button.git",
+  "_target": "master",
+  "_originalSource": "keanulee/paper-toggle-button",
+  "_direct": true
+}
