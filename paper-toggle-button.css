@@ -9,7 +9,6 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 
 :host {
   display: inline-block;
-  cursor:pointer;
 }
 
 :host(:focus) {
@@ -44,11 +43,13 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
   position: relative;
   width: 36px;
   height: 14px;
+  cursor: pointer;
 }
 
 #toggleContainer[disabled] {
   opacity: 0.3;
   pointer-events: none;
+  cursor:default;
 }
 
 #toggleBar {
